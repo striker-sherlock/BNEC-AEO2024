@@ -1,8 +1,14 @@
 // Fonts
-@import url('https://fonts.bunny.net/css?family=Nunito');
+@import url('https://fonts.bunny.net/css?family=roboto');
 
 // Variables
 @import 'variables';
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+// resources/assets/sass/w3.scss
+
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+
+@import 'home';
